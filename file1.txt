@@ -1,3 +1,4 @@
 modified on master
 change3 on branch1
 modified on origin
+new change from mybranch
